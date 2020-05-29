@@ -1,4 +1,4 @@
-A Machine Learning Approach to Predict Forest Fires using Meteorological Data
+A Machine Learning Approach to Predict Forest Fires Using Meteorological Data
 
 X - x-axis spatial coordinate within the Montesinho park map: 1 to 9
 Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
